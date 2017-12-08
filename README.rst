@@ -17,13 +17,16 @@ Software
 		Mosiquitto for Raspberry Pi + custom python script for  MQTT client publishing RPI temperature. 
 	ESP8266
 		Custom micropython script.
-		
-		Imports
-			network
-			machine
-			ssd1306
-			time
-			simple.MQTTClient
-.. code-block:: python
 
-    print("hello World")
+		Imports
+			*network
+			*machine
+			*ssd1306
+			*time
+			*simple.MQTTClient
+
+Tools
+	*Ampy
+	*esptools
+	*micropython libs
+	*Screen (for MAC)
