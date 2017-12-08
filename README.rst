@@ -19,14 +19,17 @@ Software
 		Custom micropython script.
 
 		Imports
-			*network
-			*machine
-			*ssd1306
-			*time
-			*simple.MQTTClient
+			* network
+			* machine
+			* ssd1306
+			* time
+			* simple.MQTTClient
 
 Tools
-	*Ampy
-	*esptools
-	*micropython libs
-	*Screen (for MAC)
+	* `Ampy<https://github.com/adafruit/ampy>`_
+	* `Espressif esptool<https://github.com/espressif/esptool>`_
+	* `micropython docs<http://docs.micropython.org/en/latest/pyboard/>`_
+	* `Screen (for MAC) or PuTTY for Windows<https://learn.adafruit.com/micropython-basics-how-to-load-micropython-on-a-board/serial-terminal?view=all#serial-terminal>`_
+
+
+
