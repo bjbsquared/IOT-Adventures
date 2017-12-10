@@ -16,7 +16,7 @@ Software
 	Raspberry Pi
 		Mosiquitto for Raspberry Pi + custom python script for Paho MQTT client publishing RPI temperature. 
 	ESP8266
-		Custom micropython script.
+		Custom micropython script (main.py)
 
 		Imports
 			* network
@@ -28,8 +28,8 @@ Software
 Files
 	esp8266
 		main.py
-		simple.py
-	Raspberry Pi
+		simple.py (micropython umqtt.simple)
+	Raspberry Pi (python3 piTempPub.py )
 
 Online References
 	`Ampy <https://github.com/adafruit/ampy>`_
