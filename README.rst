@@ -14,7 +14,7 @@ Hardware
 
 Software
 	Raspberry Pi
-		Mosiquitto for Raspberry Pi + custom python script for  Paho MQTT client publishing RPI temperature. 
+		Mosiquitto for Raspberry Pi + custom python script for Paho MQTT client publishing RPI temperature. 
 	ESP8266
 		Custom micropython script.
 
@@ -25,14 +25,26 @@ Software
 			* time
 			* simple.
 			
+Files
+	esp8266
+		main.py
+		simple.py
+	Raspberry Pi
 
 Online References
 	`Ampy <https://github.com/adafruit/ampy>`_
+
 	`Espressif esptool <https://github.com/espressif/esptool>`_
+
 	`micropython docs <http://docs.micropython.org/en/latest/pyboard/>`_
+
 	`Screen for MAC or PuTTY for Windows <https://learn.adafruit.com/micropython-basics-how-to-load-micropython-on-a-board/>`_
+
 	`Raspberry Pi ESP32 MicroPython MQTT DHT22 Tutorial <https://www.rototron.info/raspberry-pi-esp32-micropython-mqtt-dht22-tutorial/>`_
-	`adafruit feather OLED guide <https://learn.adafruit.com/micropython-hardware-ssd1306-oled-display>`_
+
+	`adafruit feather OLED guide <https://learn.adafruit.com/micropython-hardware-ssd1306-oled-display/>`_
+
+
 
 
 	
