@@ -23,14 +23,15 @@ Software
 			* machine
 			* ssd1306
 			* time
-			* simple.MQTTClient
+			* simple.
+			
 
 Tools
 	`Ampy <https://github.com/adafruit/ampy>`_
 	`Espressif esptool <https://github.com/espressif/esptool>`_
 	`micropython docs <http://docs.micropython.org/en/latest/pyboard/>`_
-	`Screen (for MAC) or PuTTY for Windows <https://learn.adafruit.com/micropython-basics-how-to-load-micropython-on-a-board/serial-terminal?view=all#serial-terminal>`_
-	
+	`Screen for MAC or PuTTY for Windows <https://learn.adafruit.com/micropython-basics-how-to-load-micropython-on-a-board/>`_
+
 
 
 
